@@ -1,0 +1,27 @@
+{
+  "name": "gongcheck-util-types",
+  "version": "1.0.1",
+  "description": "공책(GongCheck) 프로젝트에서 사용되는 법용 타입 모듈입니다.",
+  "main": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gong-check/gongcheck-util-types.git"
+  },
+  "contributors": [
+    "cks3066 <cks3066@naver.com> (https://velog.io/@cks3066/)",
+    "intae92 <kangit2013@gmail.com>"
+  ],
+  "keywords": [
+    "types",
+    "typescript"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gong-check/gongcheck-util-types/issues"
+  },
+  "homepage": "https://github.com/gong-check/gongcheck-util-types#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  },
+  "private": false
+}
